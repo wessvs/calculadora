@@ -96,6 +96,7 @@ input {
   display: block;
   height: 4.25rem;
   width: 6rem;
+  transition: .5s ease-in-out;
 }
 
 .flex {
